@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smilner6
-- 👀 I’m interested in ... Learning back end development.
-- 🌱 I’m currently learning ... Python.
-- 💞️ I’m looking to collaborate on ... Not sure yet!
+- 👀 I’m interested in ... Learning full stack web development
+- 🌱 I’m currently learning ... Python via Udemy ad The Odin Project.
+- 💞️ I’m looking to collaborate on ... Open source projects evetually.
 - 📫 How to reach me ... via GitHub for now!
 
 <!---
